@@ -98,7 +98,7 @@ h2 {font-size: $heading-medium;}
 }
 
 .ourBlog--posts--post--link:hover {
-    a, .arrow-1 {color: $color-orange;}
+    a, .arrow-1 {color: $color-orange; background-color: $color-orange;}
 }
 
 .date {
